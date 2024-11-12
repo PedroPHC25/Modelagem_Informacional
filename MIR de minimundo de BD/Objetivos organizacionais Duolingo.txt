@@ -1,0 +1,17 @@
+Usuário: Faz login ------------------------------------------------> Faz lição/seção
+		   ------------------------------------------------> Pular seção
+		   |						  |
+		   Escolhe idioma ----> Fazer teste de proficiência
+
+Usuário: Faz login -> Comprar na loja
+Usuário: Faz login -> Ver status
+Usuário: Faz login -> Reportar erros
+
+ADM: Faz login -> Cria lições
+	       -> Altera lições
+ADM: Faz login -> Checa feedbacks
+ADM: Faz login -> Conserta bugs
+
+Sistema: Manda notificações
+Sistema: Recupera vidas		(Não sei se faz sentido manter esses de um passo só)
+Sistema: Configura ligas
